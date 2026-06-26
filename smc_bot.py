@@ -12,7 +12,7 @@ from datetime import datetime
 # ═══════════════════════════════════════════════
 #  НАСТРОЙКИ — ЗАПОЛНИ СВОИМИ ДАННЫМИ
 # ═══════════════════════════════════════════════
- TELEGRAM_TOKEN = "8651170126:AAEWaMCIvL0Ur0OUMhBKWgV1uXiPtvSUeqo"
+TELEGRAM_TOKEN ="8651170126:AAEWaMCIvL0Ur0OUMhBKWgV1uXiPtvSUeqo"
 
 
 TELEGRAM_CHAT_ID = "6736058409"       # твой Chat ID
